@@ -28,6 +28,6 @@ A simple console-based application built using C++ that allows you to manage stu
 - Control structures and user interaction
 
 ---
-
-## 🚀 Sample Output
+📄 License
+This project is open source and free to use.
 
