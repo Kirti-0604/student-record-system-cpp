@@ -1,6 +1,6 @@
 # 🎓 Student Record Management System (C++)
 
-A simple console-based application built using C++ that allows you to manage student records efficiently using file handling and object-oriented programming.
+A simple console-based application built using C++ that allows you to manage student records efficiently using object-oriented programming.
 
 ---
 
@@ -10,7 +10,6 @@ A simple console-based application built using C++ that allows you to manage stu
 - 📋 Display all students
 - 📝 Update student information
 - ❌ Delete student records
-- 💾 All data is stored in a text file for persistence
 
 ---
 
@@ -24,7 +23,6 @@ A simple console-based application built using C++ that allows you to manage stu
 
 ## 📂 Technologies Used
 - C++ (OOP)
-- Text File Handling (`ifstream`, `ofstream`)
 - Control structures and user interaction
 
 ---
